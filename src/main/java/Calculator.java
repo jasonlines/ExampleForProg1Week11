@@ -1,9 +1,11 @@
 public class Calculator {
 
+
     public Calculator(){
 
     }
 
+    // example comment
     public double add(double a, double b){
         return a * b;
     }
